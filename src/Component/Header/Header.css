@@ -1,0 +1,68 @@
+.raw_css_navbody{
+    background-color: #003580;
+}
+.itemdesgin{
+   
+    color:white;
+    padding:12px;
+    margin: 10px;
+}
+.itemdesgin span{
+    margin-left: 10px;
+    font-size: 20px;
+}
+.raw_css_Search{
+    margin-top: 40px;
+    
+}
+.active{
+ height: 60px;
+ position: relative;
+ bottom: -30px;
+}
+.date{
+    position:absolute;
+    margin-left: 10px;
+    z-index: 2;
+}
+.inputdesign{
+  
+    font-size: 12px;
+    border: 1px solid black;
+    border-radius: 2px;
+    padding:4px;
+    width: 50px;
+    
+}
+.inputnumberdesign{
+    font-size: 15px; 
+}
+.coldesgin{
+   display: flex;
+   margin-top: 3px;
+   gap:6px;
+   
+ 
+}
+.calendercss{
+    background-color: white;
+    border:0.1px solid grey;
+    border-radius: 10px ;
+    width: 350px;
+    height: 60px;
+   
+}
+.spandesgin{
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+    
+}
+.countercss{
+    background-color: white;
+    border: 1px solid black;
+    width: 80%;
+    position: relative;
+    z-index: 2;
+
+}

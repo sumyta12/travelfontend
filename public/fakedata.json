@@ -1,0 +1,20 @@
+[
+    {
+      "_id": "63973a55a22535a16c14737c",
+      "picture": "https://images.pexels.com/photos/2507010/pexels-photo-2507010.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Fox Farley",
+      "company": "ISOTRONIC"
+    },
+    {
+      "_id": "63973a55ce18f91fdc6b34dd",
+      "picture": "https://images.pexels.com/photos/1001965/pexels-photo-1001965.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Rosalinda Sherman",
+      "company": "PORTICA"
+    },
+    {
+      "_id": "63973a55cac730c1cc038fc4",
+      "picture": "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Mcdowell Russell",
+      "company": "MOREGANIC"
+    }
+  ]
